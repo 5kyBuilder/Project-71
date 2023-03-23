@@ -1,0 +1,71 @@
+#home{
+    background: linear-gradient(darkblue 0%, turquoise 100%)
+}
+
+#home h4{
+    font-size: 30px;
+}
+
+#social{
+    background: linear-gradient(red 0%, purple 100%);
+}
+
+#Activites{
+    background: linear-gradient(green 0%, darkgreen 100%);
+}
+
+.activites_head
+{
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+#contact{
+    background: linear-gradient(lightblue 0%, cyan 100%);
+}
+
+#campuslife{
+    background: firebrick;
+}
+#campuslife img{
+    width: 100%;
+}
+
+#home img{
+    width: 80%;
+    height: 10%;
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+
+h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 80px;
+    text-decoration: underline;
+}
+
+h2{
+    color: black;
+    font-size: 50px;
+}
+
+.activites_head i
+{
+    padding-left: 50px;
+}
+
+.texx
+{
+    color:white;
+}
+
+#WhatsNew p
+{
+    font-size: 20px;
+    font-weight: bold;
+}
